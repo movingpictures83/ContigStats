@@ -1,0 +1,2 @@
+Prefix plugins/ContigStats/example/
+Plugin ContigStats inputfile S12_R1.fasta outputfile none
