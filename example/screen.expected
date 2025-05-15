@@ -23,20 +23,20 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: ContigStats
-entries 250
-len max 151
-len min 151
-len mean        151
-total bases     37750
-len q1  151
-len median      151
-len q3  151
-N50     151
-N90     151
-N50 > 500       0
-N90 > 500       0
-contigs > 500   0
-bases in contigs > 500  0
-dup-mer-21      2.82
-dup-mer-cnt     30030
-dup-pct-21      8.79
+entries	250
+len max	151
+len min	151
+len mean	151
+total bases	37750
+len q1	151
+len median	151
+len q3	151
+N50	151
+N90	151
+N50 > 500	0
+N90 > 500	0
+contigs > 500	0
+bases in contigs > 500	0
+dup-mer-21	2.82
+dup-mer-cnt	30030
+dup-pct-21	8.79
